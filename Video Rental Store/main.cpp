@@ -23,6 +23,6 @@ int main() {
 	Store s;
 	s.prompt();
 
-	system("pause");
+	cin.get();
 	return 0;
 }
